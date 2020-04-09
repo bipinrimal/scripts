@@ -1,2 +1,3 @@
-# scripts
-Bioinformatics Scripts
+# Scripts | Different Languages | Different Projects 
+
+Scripts dump!!
